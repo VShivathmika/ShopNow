@@ -35,6 +35,8 @@ Database: MySQL
 Project Screenshots
 
 Admin Page – Manage products (Add/Edit/Delete)
+![Screenshot_18-10-2025_192324_localhost](https://github.com/user-attachments/assets/c002c674-336b-4cbf-94f7-bf5871857766)
+
 
 User Dashboard – Browse and search products, manage bookings, view cart
 
@@ -42,8 +44,13 @@ User Dashboard – Browse and search products, manage bookings, view cart
 
 
 Shopping Cart – Add or remove items and review selections
+![Screenshot_18-10-2025_191810_localhost](https://github.com/user-attachments/assets/65af0b61-7207-470e-863e-3000ae44fd9c)
+![Screenshot_18-10-2025_191939_localhost](https://github.com/user-attachments/assets/1cb3aa05-acc1-4627-8030-09aaaec333cd)
+
+
 
 Order Success Page – Confirmation page after booking
+![Uploading Screenshot_18-10-2025_192233_localhost.jpeg…]()
 
 
 Learning Outcome

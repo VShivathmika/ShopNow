@@ -50,7 +50,8 @@ Shopping Cart – Add or remove items and review selections
 
 
 Order Success Page – Confirmation page after booking
-![Uploading Screenshot_18-10-2025_192233_localhost.jpeg…]()
+![Screenshot_18-10-2025_192233_localhost](https://github.com/user-attachments/assets/1132e664-6067-425b-9562-666167369871)
+
 
 
 Learning Outcome

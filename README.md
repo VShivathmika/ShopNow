@@ -38,11 +38,13 @@ Admin Page – Manage products (Add/Edit/Delete)
 
 User Dashboard – Browse and search products, manage bookings, view cart
 
+![Screenshot_18-10-2025_191724_localhost](https://github.com/user-attachments/assets/36eb270d-4001-4c7a-b4d3-d2c71ed172d1)
+
+
 Shopping Cart – Add or remove items and review selections
 
 Order Success Page – Confirmation page after booking
 
-(Add screenshots here using ![Alt Text](screenshot.png))
 
 Learning Outcome
 
